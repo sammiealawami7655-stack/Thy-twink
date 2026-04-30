@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "TheGrind101.aternos.me:35924",
+    "port": 35924,
     "version": "",
     "try-creative": false
   },
