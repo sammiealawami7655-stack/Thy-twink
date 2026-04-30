@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheGrind101.aternos.me:35924",
+    "ip": "TheGrind101.aternos.me",
     "port": 35924,
     "version": "",
     "try-creative": false
