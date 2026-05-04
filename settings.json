@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheGrind101.aternos.me",
+    "ip": "shrimpfish.aternos.host",
     "port": 35924,
     "version": "1.21.1",
     "try-creative": false
